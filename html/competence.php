@@ -1,19 +1,24 @@
 
 
     <div class="profile-page">
-      <div class="wrapper">
-        <div class="page-header page-header-small" filter-color="green">
-          <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');">
-          </div>
-          <div class="container">
-            <div class="content-center">
-              <div class="cc-profile-image"><a href="#"><img src="images/moi.jpg" alt="Image" /></a></div>
-              <div class="h2 title">Adeline LACABANNE</div>
-              <p class="category text-white">Developpeur Web</p><a class="btn btn-primary smooth-scroll mr-2"
-                href="contact.html" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contactez moi</a><a
-                class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Télécharger CV</a>
+        <div class="wrapper">
+          <div class="page-header page-header-small" filter-color="green">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');">
             </div>
-          </div>
+            <div class="container">
+              <div class="content-center">
+                <div class="cc-profile-image">
+                  <a href="#"><img src="images/moi.jpg" alt="Image" /></a>
+                </div>
+                <div class="h2 title">
+                  Adeline LACABANNE
+                </div>
+                <p class="category text-white">Developpeur Web</p><a class="btn btn-primary smooth-scroll mr-2"
+                  href="html/contact.php" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contactez moi</a><a
+                  class="btn btn-primary" href="images/adeline_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Télécharger
+                  CV</a>
+              </div>
+            </div>
           <div class="section">
             <div class="container">
             </div>
