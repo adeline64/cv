@@ -48,7 +48,7 @@
                   <div class="h4 mt-0 title">Information</div>
                   <div class="row">
                     <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
-                    <div class="col-sm-8">25 ans</div>
+                    <div class="col-sm-8">26 ans</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
@@ -61,7 +61,7 @@
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Adresse:</strong></div>
-                    <div class="col-sm-8">4 Avenue Gaston Lacoste 64000 PAU</div>
+                    <div class="col-sm-8">33 rue du Corps Franc Pommies 65000 TARBES</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4"><strong class="text-uppercase">Langue:</strong></div>

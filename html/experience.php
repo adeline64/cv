@@ -20,13 +20,122 @@
                     <div class="section" id="experience">
                         <div class="container cc-experience">
                             <div class="h4 text-center mb-4 title experience4">
-                                Travail
+                                Travail étudiant
                             </div>
+
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                                         <div class="card-body cc-experience-header">
-                                            <p>2020 - 1 jour</p>
+                                            <p>Aout 2020</p>
+                                            <div class="h5">
+                                                Femme de ménage
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body">
+                                            <div class="h5">Différents sites</div>
+                                            <div style="text-align: left">
+                                                <p>Nettoyage et désinfection de cabinet médicaux, médiathèque, bureau et entreprise d'informatique</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body cc-experience-header">
+                                            <p>Juin 2020 - 1 jour</p>
+                                            <div class="h5">
+                                                Inventoriste
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body">
+                                            <div class="h5">Inventaire au SUPER U d'IDRON</div>
+                                            <div style="text-align: left">
+                                                <p>Faire l'inventaire des produits du magasin.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body cc-experience-header">
+                                            <p>Mai à Juin 2020 </p>
+                                            <div class="h5">
+                                                Femme de ménage
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body">
+                                            <div class="h5">Ménage sur chantier</div>
+                                            <div style="text-align: left">
+                                                <p>Nettoyage d'un chantier de construction et des bureau</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                            
+                                <div class="row">
+                                <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body cc-experience-header">
+                                            <p>Mars 2020 - 1 jour</p>
+                                            <div class="h5">
+                                                Mise en rayon
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body">
+                                            <div class="h5">Mise en rayon au carrefour de PAU</div>
+                                            <div style="text-align: left">
+                                                <p>Faire la mise en rayon des produits du magasin.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+
+
+                            <div class="card">
+                            
+                                <div class="row">
+                                <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body cc-experience-header">
+                                            <p>Mars 2020 - 1 jour</p>
+                                            <div class="h5">
+                                                Mise en rayon 
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body">
+                                            <div class="h5">Mise en rayon au super U d'IDRON</div>
+                                            <div style="text-align: left">
+                                                <p>Faire la mise en rayon des produits du magasin.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                                        <div class="card-body cc-experience-header">
+                                            <p>Janvier 2020 - 1 jour</p>
                                             <div class="h5">
                                                 Inventoriste
                                             </div>
@@ -36,17 +145,18 @@
                                         <div class="card-body">
                                             <div class="h5">Inventaire au Leclerc de PAU</div>
                                             <div style="text-align: left">
-                                                <p>Faire l'inventaire des produits frai et du rayon parfumerie du magasin.</p>
+                                                <p>Faire l'inventaire des produits du magasin.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                                         <div class="card-body cc-experience-header">
-                                            <p>2020 - 1 jour</p>
+                                            <p>Janvier 2020 - 1 jour</p>
                                             <div class="h5">
                                                 Inventoriste
                                             </div>
@@ -66,7 +176,7 @@
                                 <div class="row">
                                     <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                                         <div class="card-body cc-experience-header">
-                                            <p>2020 - 1 jour</p>
+                                            <p>Janvier 2020 - 1 jour</p>
                                             <div class="h5">
                                                 Inventoriste
                                             </div>
@@ -86,7 +196,7 @@
                                 <div class="row">
                                     <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                                         <div class="card-body cc-experience-header">
-                                            <p>2020 - 1 jour</p>
+                                            <p>Janvier 2020 - 1 jour</p>
                                             <div class="h5">
                                                 Inventoriste
                                             </div>
@@ -106,7 +216,7 @@
                                 <div class="row">
                                     <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                                         <div class="card-body cc-experience-header">
-                                            <p>2020 - 1 jour</p>
+                                            <p>Janvier 2020 - 1 jour</p>
                                             <div class="h5">
                                                 Inventoriste
                                             </div>

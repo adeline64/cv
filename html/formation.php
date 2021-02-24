@@ -21,6 +21,26 @@
 <div class="section">
     <div class="container cc-education">
         <div class="h4 text-center mb-4 title">Formation</div>
+
+        <div class="card">
+            <div class="row">
+                <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                    <div class="card-body cc-education-header">
+                        <p>2020 - 2021</p>
+                        <div class="h5">Bac Professionnel</div>
+                    </div>
+                </div>
+                <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                    <div class="card-body">
+                        <div class="h5">Bac Professionnel Système Numérique (SN) option RISC</div>
+                        <p class="category">Lycéee Saint Pierre TARBES</p>
+                        <p>Le/la titulaire du baccalauréat professionnel SYSTÈMES NUMÉRIQUES (SN) est un(e) technicien(ne) capable d’intervenir sur les équipements et les installations exploités et organisés sous forme de systèmes interconnectés, communicants et convergents, de technologie numérique, des secteurs grands publics, professionnels et industriels. Il/elle intervient sur le réseau d’énergie dans la limite de ses compétences et participe au service client en complémentarité des services commerciaux.</p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="card">
             <div class="row">
                 <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
