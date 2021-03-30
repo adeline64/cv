@@ -11,7 +11,7 @@
               <div class="row">
                 <div class="col-md">
                   <div class="card-body">
-                    <form action="https://formspree.io/adeline.lacabanne@gmail.com" method="POST">
+                    <form action="https://formsubmit.co/adeline.lacabanne@gmail.com" method="POST">
                       <div class="p pb-3"><strong>Formulaire </strong></div>
                         <div class="row mb-3">
                           <div class="col">
